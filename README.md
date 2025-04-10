@@ -12,4 +12,3 @@ Uma lista organizada de métodos para obter shell reverso em sistemas Linux/Wind
 ✔️ Shells estáveis e interativos
 
 
-✔️ Inclui persistência e pós-exploração
